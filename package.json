@@ -1,0 +1,26 @@
+{
+  "name": "ls-solutions",
+  "version": "1.0.0",
+  "description": "Este repositório tem a finalidade de agrupar as soluções dos exercícios da disciplina LS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleczk/ls-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleczk/ls-solutions/issues"
+  },
+  "homepage": "https://github.com/aleczk/ls-solutions#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
